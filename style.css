@@ -1,0 +1,30 @@
+h1 s1{ 
+    color: green;
+  }
+  h1 s2 {
+    color: blue;
+  }
+h2,h3 {
+  text-align:left;
+  text-indent:  2em;
+  font-size: 1.5em;
+}
+h4{
+text-align: left;
+text-indent: 2em;
+ font-size: 1.3em;
+}
+p , a {
+    text-indent: 2em;
+    font-size: 1.2em;
+  }
+img{
+    display: block;
+  margin: 20px auto;
+  width: 100%;
+  height: 600px;
+}
+    .highlight {
+          font-size: 1.2em;
+    }
+
